@@ -1,0 +1,3 @@
+/home/lin/Desktop/compare/arcd-master/arcd/CMakeFiles/arcd.dir
+/home/lin/Desktop/compare/arcd-master/arcd/CMakeFiles/edit_cache.dir
+/home/lin/Desktop/compare/arcd-master/arcd/CMakeFiles/rebuild_cache.dir
