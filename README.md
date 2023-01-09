@@ -18,7 +18,6 @@
 ```
 cd arcd-master
 cd examples
-
 ```
 compile
 ```
@@ -40,7 +39,6 @@ excute
 
 ```
 cd huffman-main
-
 ```
 compile
 ```
@@ -57,5 +55,7 @@ execute
 ```
 
 ## 使用者說明
-
-照上面的Compile and excute指示，將input.file和output.file改成自己想要的檔名，就能分別壓縮與解壓縮檔案，並且在最下方顯示執行時間
+照上面的Compile and excute指示
+將input.file和output.file改成自己想要的檔名
+就能分別壓縮與解壓縮檔案
+並且在最下方顯示執行時間
