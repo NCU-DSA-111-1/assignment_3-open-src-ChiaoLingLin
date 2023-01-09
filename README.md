@@ -15,46 +15,35 @@
 ####  Arithemtic Coding 
 
 在compare資料夾 
-```
-cd arcd-master
-cd examples
-```
-compile
-```
-make
-```
+
+`cd arcd-master`  `cd examples`
+
+compile `make`
+
 excute
 
-壓縮
-```
-./arcd_stream -e < input.file | tee output.file
-```
-解壓縮
-```
-./arcd_stream -d < input.file | tee output.file
-```
+壓縮 `./arcd_stream -e < input.file | tee output.file`
+
+解壓縮`./arcd_stream -d < input.file | tee output.file`
+
+
 
 #### Huffman Coding
-在compare資料夾
 
-```
-cd huffman-main
-```
+在compare資料夾 `cd huffman-main`
+
+
 compile
-```
-make
-```
+`make`
+
 execute
-壓縮
-```
-./huffcode -i input.file -o output.file -c
-```
-解壓縮
-```
-./huffcode -i input.file -o output.file -d
-```
+
+壓縮`./huffcode -i input.file -o output.file -c`
+
+解壓縮`./huffcode -i input.file -o output.file -d`
 
 ## 使用者說明
+
 照上面的Compile and excute指示
 
 將input.file和output.file改成自己想要的檔名
